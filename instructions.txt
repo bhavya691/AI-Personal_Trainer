@@ -1,0 +1,40 @@
+                                            AI Personal Trainer
+
+In this project I will be building an AI Trainer using OpenCV and Python. I will use the pose estimation to find the correct points and using these points I will get the desired angles. Then based on these angles I find many gestures including the number of biceps curls and push-ups repitations etc. I will write the code in a way that I will be able to find angles between any 3 points with just a single line of code.
+
+For coder:-
+
+Step-1: Opening Webcam
+
+Step-2: Finding and drawing all the points on body
+
+Step-3: Getting only desired point
+
+Step-4: Finding Angle between three desired points
+
+Step-5: Drawing some UI
+
+Step-6: Converting it into Class
+
+Step-7: Opening Webcame and making Object of this class in anther file 
+
+Step-8: Resizing the dimensions of webcam
+
+Step-9: Getting position of three desired points
+
+Step-10: Finding angle
+
+Step-11: Finding percentage 
+
+Step-12: Making bar 
+
+Step-13: Drawing Bar and current count
+
+Step-14: Getting frame rate and Showing it on the frame
+
+Step-15: Closing Webcame
+
+
+For User:-  
+
+The user must be at a distance from the webcam. Its left side should be visible in webcam.
